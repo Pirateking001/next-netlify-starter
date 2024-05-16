@@ -28,9 +28,21 @@ code {
 }
 
 .container {
-  height: 100vh;
+/*   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
+    max-width: 800px; /* Adjust as needed */
+  margin: 0 auto;
+  padding: 0 20px; /* Add padding to create space around content */
+}
+
+.blog-post {
+  margin-bottom: 20px; /* Add margin to the bottom of the article */
+}
+
+.footer {
+  text-align: center;
+  margin-top: 20px; /* Add margin to the top of the footer */
 }
