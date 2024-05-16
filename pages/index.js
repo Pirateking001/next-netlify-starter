@@ -6,8 +6,37 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>RC Blog Post</title>
         <link rel="icon" href="/favicon.ico" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog Post</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #888;
+        }
+    </style>
       </Head>
 
       <main>
