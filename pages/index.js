@@ -17,7 +17,7 @@ export default function Home() {
       <Header />
 
       <main>
-        <article>
+        <article className="blog-post">
           <h2>RC Blog Post</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
