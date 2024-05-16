@@ -12,7 +12,7 @@ export default function Home() {
     <title>My Blog Post</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+           font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
