@@ -66,33 +66,41 @@ export default function Home() {
             Although the upfront cost of EVs is higher than petrol cars, the partial equilibrium analysis shows that the ACT Government can influence more people in the ACT to buy EVs by reducing costs. This will make consumers better off and improve the efficiency of the economy. 
             Importantly, the government will need to find other sources of revenue to cover the revenue that is lost because of these policies.
           </p>
+
+                        <p>
+
+              
+              
+              
+              </p>
+          <h3>References</h3>
           
           <p>
-            ACT (Australian Capital Territory Government) (2019) <i>ACT climate change strategy 2019-25 Summary</i>, Australian Capital Territory Government, accessed 15 May 2024. <a href="https://www.climatechoices.act.gov.au/__data/assets/pdf_file/0004/1414642/ACT-Climate-Change-Strategy-2019-2025-Summary.pdf">Link</a>
+            ACT (Australian Capital Territory Government) (2019) <i>ACT climate change strategy 2019-25 Summary</i>, Australian Capital Territory Government, accessed 15 May 2024. https://www.climatechoices.act.gov.au/__data/assets/pdf_file/0004/1414642/ACT-Climate-Change-Strategy-2019-2025-Summary.pdf
           </p>
 
           <p>
-            ACT (Australian Capital Territory Government) (2024) ‘Total vehicles registered in the ACT’, <i>Open Data Portal DataACT</i>, Australian Capital Territory Government, accessed 15 May 2024. <a href="https://www.data.act.gov.au/Transport/Total-vehicles-registered-in-the-ACT/x4hp-vihn/about_data">Link</a>             
+            ACT (Australian Capital Territory Government) (2024) ‘Total vehicles registered in the ACT’, <i>Open Data Portal DataACT</i>, Australian Capital Territory Government, accessed 15 May 2024.https://www.data.act.gov.au/Transport/Total-vehicles-registered-in-the-ACT/x4hp-vihn/about_data            
           </p>
 
           <p>
-            ACT Revenue Office (n.d.) <i>Motor vehicle duty</i>, ACT Revenue Office, accessed 15 May 2024. <a href="https://www.revenue.act.gov.au/duties/motor-vehicle-duty">Link</a>             
+            ACT Revenue Office (n.d.) <i>Motor vehicle duty</i>, ACT Revenue Office, accessed 15 May 2024.https://www.revenue.act.gov.au/duties/motor-vehicle-duty      
           </p>
 
           <p>
-            EVC (Electric Vehicle Council) (2023a) <i>Australian electric vehicle industry recap 2023</i>, Electric Vehicle Council, Australia, accessed 15 May 2024. <a href="https://electricvehiclecouncil.com.au/wp-content/uploads/2024/03/EVC-Australian-EV-Industry-Recap-2023.pdf">Link</a>         
+            EVC (Electric Vehicle Council) (2023a) <i>Australian electric vehicle industry recap 2023</i>, Electric Vehicle Council, Australia, accessed 15 May 2024. https://electricvehiclecouncil.com.au/wp-content/uploads/2024/03/EVC-Australian-EV-Industry-Recap-2023.pdf     
           </p>
 
           <p>
-            EVC (Electric Vehicle Council) (2023b) <i>State of electric vehicles</i>, July 2023, Electric Vehicle Council, Australia, accessed 15 May 2024. <a href="https://electricvehiclecouncil.com.au/wp-content/uploads/2023/07/State-of-EVs_July-2023_.pdf">Link</a>
+            EVC (Electric Vehicle Council) (2023b) <i>State of electric vehicles</i>, July 2023, Electric Vehicle Council, Australia, accessed 15 May 2024. https://electricvehiclecouncil.com.au/wp-content/uploads/2023/07/State-of-EVs_July-2023_.pdf
           </p>
 
           <p>
-            Potter K and Favour O (2024) ‘Understanding the benefits and drawbacks of electric vehicles compared to traditional gasoline-powered cars’, <i>Journal of Technology and Management</i>, accessed 15 May 2024. <a href="https://www.researchgate.net/publication/378550323_Understanding_the_Benefits_and_Drawbacks_of_Electric_Vehicles_Compared_to_Traditional_Gasoline-Powered_Cars">Link</a>              
+            Potter K and Favour O (2024) ‘Understanding the benefits and drawbacks of electric vehicles compared to traditional gasoline-powered cars’, <i>Journal of Technology and Management</i>, accessed 15 May 2024. https://www.researchgate.net/publication/378550323_Understanding_the_Benefits_and_Drawbacks_of_Electric_Vehicles_Compared_to_Traditional_Gasoline-Powered_Cars             
           </p>
 
           <p>
-            Sinclair D, Vidyattama Y, Schirmer J, Tanton R and McCaffrie B (2020) ‘Electric vehicles in the ACT: Final report to the ACT Government’ in Australian Capital Territory Government (ACT) (2022) ACT’s <i>zero emissions vehicles strategy 2022-30</i>, Australian Capital Territory Government, accessed 15 May 2024. <a href="https://www.environment.act.gov.au/__data/assets/pdf_file/0012/1188498/2018-21-ACTs-transition-to-zero-emissions-vehicles-Action-Plan-ACCESS.pdf">Link</a>              
+            Sinclair D, Vidyattama Y, Schirmer J, Tanton R and McCaffrie B (2020) ‘Electric vehicles in the ACT: Final report to the ACT Government’ in Australian Capital Territory Government (ACT) (2022) ACT’s <i>zero emissions vehicles strategy 2022-30</i>, Australian Capital Territory Government, accessed 15 May 2024. https://www.environment.act.gov.au/__data/assets/pdf_file/0012/1188498/2018-21-ACTs-transition-to-zero-emissions-vehicles-Action-Plan-ACCESS.pdf              
           </p>
         </article>
       </main>
