@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>IDEC8064 2024 Case study ID 19		u7595200</title>
+        <title>IDEC8064 2024 Case study ID 19 u7595200</title>
         <meta
           name="description"
           content="XXXXXXX."
@@ -18,8 +18,8 @@ export default function Home() {
       <main>
         <article className="blog-post">
           <h2>Investigating the Welfare Impact of the ACT Government’s Electric Vehicle Policies</h2>
-            <h3>Rochelle Chand </h3>
-            <h4>IDEC8064: Masters Microeconomics at ANU</h4>
+          <h3>Rochelle Chand</h3>
+          <h4>IDEC8064: Masters Microeconomics at ANU</h4>
           <p>
             The Australian Capital Territory (ACT) Government has committed to achieving net zero emissions by 2045 (ACT 2019). To help achieve this, a range of policies have been rolled out to encourage ACT residents to purchase electric vehicles (EVs). 
             EVs ‘produce zero tailpipe emissions, helping to improve air quality and reduce greenhouse gas emissions (Potter and Favour 2024).’ Despite this, many people choose not to buy EVs because of concerns about price, the ability to charge the car
@@ -28,13 +28,13 @@ export default function Home() {
           </p>
           <p>
             For some, buying an EV is a very simple choice – it’s good for the environment so the cost doesn’t matter. However, for most people cost is one of the biggest factors affecting their choice between an EV and a petrol car. The costs to consider include:
-            <ul>
-              <li>The price of the car</li>
-              <li>Stamp duty and registration fees</li>
-              <li>The price of fuel or electricity to power the car</li>
-              <li>Servicing and other maintenance costs</li>
-            </ul>
           </p>
+          <ul>
+            <li>The price of the car</li>
+            <li>Stamp duty and registration fees</li>
+            <li>The price of fuel or electricity to power the car</li>
+            <li>Servicing and other maintenance costs</li>
+          </ul>
           <p>
             In the ACT, stamp duty for a car worth less than $45,000 can cost up to $1,910.60 (ACT Revenue Office n.d.). Registration fees (excluding the cost of MIA insurance) can add an extra $600 to the bill. EVs also come with extra upfront costs for anyone looking to
             install solar panels or a home battery to get cheaper electricity. This means that in the short term, EVs can be very expensive. In the longer term, EVs are more cost effective because electricity is cheaper than petrol.
@@ -68,36 +68,32 @@ export default function Home() {
           </p>
           
           <p>
-            ACT (Australian Capital Territory Government) (2019)<i> ACT climate change strategy 2019-25 Summary</i>, Australian Capital Territory Government, accessed 15 May 2024. https://www.climatechoices.act.gov.au/__data/assets/pdf_file/0004/1414642/ACT-Climate-Change-Strategy-2019-2025-Summary.pdf
+            ACT (Australian Capital Territory Government) (2019) <i>ACT climate change strategy 2019-25 Summary</i>, Australian Capital Territory Government, accessed 15 May 2024. <a href="https://www.climatechoices.act.gov.au/__data/assets/pdf_file/0004/1414642/ACT-Climate-Change-Strategy-2019-2025-Summary.pdf">Link</a>
           </p>
 
           <p>
-            ACT (Australian Capital Territory Government) (2024) ‘Total vehicles registered in the ACT’, <i>Open Data Portal DataACT</i>, Australian Capital Territory Government, accessed 15 May 2024.https://www.data.act.gov.au/Transport/Total-vehicles-registered-in-the-ACT/x4hp-vihn/about_data             
+            ACT (Australian Capital Territory Government) (2024) ‘Total vehicles registered in the ACT’, <i>Open Data Portal DataACT</i>, Australian Capital Territory Government, accessed 15 May 2024. <a href="https://www.data.act.gov.au/Transport/Total-vehicles-registered-in-the-ACT/x4hp-vihn/about_data">Link</a>             
           </p>
 
           <p>
-            ACT Revenue Office (n.d.)<i> Motor vehicle duty</i>, ACT Revenue Office, accessed 15 May 2024.https://www.revenue.act.gov.au/duties/motor-vehicle-duty               
+            ACT Revenue Office (n.d.) <i>Motor vehicle duty</i>, ACT Revenue Office, accessed 15 May 2024. <a href="https://www.revenue.act.gov.au/duties/motor-vehicle-duty">Link</a>             
           </p>
 
           <p>
-            EVC (Electric Vehicle Council) (2023a) <i>Australian electric vehicle industry recap 2023</i>, Electric Vehicle Council, Australia, accessed 15 May 2024. https://electricvehiclecouncil.com.au/wp-content/uploads/2024/03/EVC-Australian-EV-Industry-Recap-2023.pdf         
+            EVC (Electric Vehicle Council) (2023a) <i>Australian electric vehicle industry recap 2023</i>, Electric Vehicle Council, Australia, accessed 15 May 2024. <a href="https://electricvehiclecouncil.com.au/wp-content/uploads/2024/03/EVC-Australian-EV-Industry-Recap-2023.pdf">Link</a>         
           </p>
 
           <p>
-            EVC (Electric Vehicle Council) (2023b) <i>State of electric vehicles</i>, July 2023, Electric Vehicle Council, Australia, accessed 15 May 2024.https://electricvehiclecouncil.com.au/wp-content/uploads/2023/07/State-of-EVs_July-2023_.pdf
+            EVC (Electric Vehicle Council) (2023b) <i>State of electric vehicles</i>, July 2023, Electric Vehicle Council, Australia, accessed 15 May 2024. <a href="https://electricvehiclecouncil.com.au/wp-content/uploads/2023/07/State-of-EVs_July-2023_.pdf">Link</a>
           </p>
 
-            <p>
-            Potter K and Favour O (2024) ‘Understanding the benefits and drawbacks of electric vehicles compared to traditional gasoline-powered cars’, <i>Journal of Technology and Management</i>, accessed 15 May 2024.https://www.researchgate.net/publication/378550323_Understanding_the_Benefits_and_Drawbacks_of_Electric_Vehicles_Compared_to_Traditional_Gasoline-Powered_Cars              
+          <p>
+            Potter K and Favour O (2024) ‘Understanding the benefits and drawbacks of electric vehicles compared to traditional gasoline-powered cars’, <i>Journal of Technology and Management</i>, accessed 15 May 2024. <a href="https://www.researchgate.net/publication/378550323_Understanding_the_Benefits_and_Drawbacks_of_Electric_Vehicles_Compared_to_Traditional_Gasoline-Powered_Cars">Link</a>              
           </p>
 
-            <p>
-            Sinclair D, Vidyattama Y, Schirmer J, Tanton R and McCaffrie B (2020) ‘Electric vehicles in the ACT: Final report to the ACT Government’ in Australian Capital Territory Government (ACT) (2022) ACT’s <i>zero emissions vehicles strategy 2022-30</i>, Australian Capital Territory Government, accessed 15 May 2024.https://www.environment.act.gov.au/__data/assets/pdf_file/0012/1188498/2018-21-ACTs-transition-to-zero-emissions-vehicles-Action-Plan-ACCESS.pdf              
+          <p>
+            Sinclair D, Vidyattama Y, Schirmer J, Tanton R and McCaffrie B (2020) ‘Electric vehicles in the ACT: Final report to the ACT Government’ in Australian Capital Territory Government (ACT) (2022) ACT’s <i>zero emissions vehicles strategy 2022-30</i>, Australian Capital Territory Government, accessed 15 May 2024. <a href="https://www.environment.act.gov.au/__data/assets/pdf_file/0012/1188498/2018-21-ACTs-transition-to-zero-emissions-vehicles-Action-Plan-ACCESS.pdf">Link</a>              
           </p>
-     
-              
-              
-              </p>
         </article>
       </main>
 
@@ -108,4 +104,3 @@ export default function Home() {
     </div>
   );
 }
-
