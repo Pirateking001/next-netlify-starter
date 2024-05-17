@@ -18,7 +18,7 @@ export default function Home() {
       <main>
         <article className="blog-post">
           <h2>Investigating the Welfare Impact of the ACT Government’s Electric Vehicle Policies</h2>
-          <h3>Rochelle Chand</h3>
+          <h3>By Rochelle Chand</h3>
           <h4>IDEC8064: Masters Microeconomics at ANU</h4>
           <p>
             The Australian Capital Territory (ACT) Government has committed to achieving net zero emissions by 2045 (ACT 2019). To help achieve this, a range of policies have been rolled out to encourage ACT residents to purchase electric vehicles (EVs). 
@@ -67,12 +67,7 @@ export default function Home() {
             Importantly, the government will need to find other sources of revenue to cover the revenue that is lost because of these policies.
           </p>
 
-                        <p>
 
-              
-              
-              
-              </p>
           <h3>References</h3>
           
           <p>
